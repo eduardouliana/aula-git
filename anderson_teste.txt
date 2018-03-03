@@ -7,4 +7,4 @@ Teste push
 teste push2
 
 
-teste conflito
+teste conflito 2
