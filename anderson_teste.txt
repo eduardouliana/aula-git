@@ -7,4 +7,10 @@ Teste push
 teste push2
 
 
+<<<<<<< HEAD
 teste conflito
+
+teste de conflito
+=======
+teste conflito 2
+>>>>>>> f5b57a9669272a0a659b2fb750a21aef3a8a708f
