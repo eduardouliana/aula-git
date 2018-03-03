@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 
 
 
 
 Modificando os "problemas" que a Deizi causou!!
-=======
+
 Teste arquivo - Deiziane
->>>>>>> cbaa987b8a9141c5ca8af9c7841a3eeeb7baea4c
+
