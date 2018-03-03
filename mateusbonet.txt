@@ -1,10 +1,4 @@
 Mateus Bonet q usa méqui
-<<<<<<< HEAD
 mateus boné e aipode
-
-
-
-vermeio
-=======
-mateus boné, aipod, e golsera 
->>>>>>> 1054fa867d57bdc5c9b758dffec16cb0b6e8dc88
+e golsera 
+cor de sangue
